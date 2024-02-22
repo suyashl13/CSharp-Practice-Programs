@@ -1,0 +1,15 @@
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/02-CLI-Banking-Project/01-Banking-CLIApplication-Presentation/bin/Debug/net8.0/01-Banking-CLIApplication-Presentation
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/02-CLI-Banking-Project/01-Banking-CLIApplication-Presentation/bin/Debug/net8.0/01-Banking-CLIApplication-Presentation.deps.json
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/02-CLI-Banking-Project/01-Banking-CLIApplication-Presentation/bin/Debug/net8.0/01-Banking-CLIApplication-Presentation.runtimeconfig.json
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/02-CLI-Banking-Project/01-Banking-CLIApplication-Presentation/bin/Debug/net8.0/01-Banking-CLIApplication-Presentation.dll
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/02-CLI-Banking-Project/01-Banking-CLIApplication-Presentation/bin/Debug/net8.0/01-Banking-CLIApplication-Presentation.pdb
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/02-CLI-Banking-Project/01-Banking-CLIApplication-Presentation/obj/Debug/net8.0/01-Banking-CLIApplication-Presentation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/02-CLI-Banking-Project/01-Banking-CLIApplication-Presentation/obj/Debug/net8.0/01-Banking-CLIApplication-Presentation.AssemblyInfoInputs.cache
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/02-CLI-Banking-Project/01-Banking-CLIApplication-Presentation/obj/Debug/net8.0/01-Banking-CLIApplication-Presentation.AssemblyInfo.cs
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/02-CLI-Banking-Project/01-Banking-CLIApplication-Presentation/obj/Debug/net8.0/01-Banking-CLIApplication-Presentation.csproj.CoreCompileInputs.cache
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/02-CLI-Banking-Project/01-Banking-CLIApplication-Presentation/obj/Debug/net8.0/01-Banking-CLIApplication-Presentation.sourcelink.json
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/02-CLI-Banking-Project/01-Banking-CLIApplication-Presentation/obj/Debug/net8.0/01-Banking-CLIApplication-Presentation.dll
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/02-CLI-Banking-Project/01-Banking-CLIApplication-Presentation/obj/Debug/net8.0/refint/01-Banking-CLIApplication-Presentation.dll
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/02-CLI-Banking-Project/01-Banking-CLIApplication-Presentation/obj/Debug/net8.0/01-Banking-CLIApplication-Presentation.pdb
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/02-CLI-Banking-Project/01-Banking-CLIApplication-Presentation/obj/Debug/net8.0/01-Banking-CLIApplication-Presentation.genruntimeconfig.cache
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/02-CLI-Banking-Project/01-Banking-CLIApplication-Presentation/obj/Debug/net8.0/ref/01-Banking-CLIApplication-Presentation.dll

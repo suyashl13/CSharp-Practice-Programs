@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/01-Language-Basics/04-loops/04-loops.csproj",
+      "projectUniqueName": "/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/01-Language-Basics/05-loops/04-loops.csproj",
       "projectName": "04-loops",
-      "projectPath": "/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/01-Language-Basics/04-loops/04-loops.csproj",
+      "projectPath": "/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/01-Language-Basics/05-loops/04-loops.csproj",
       "packagesPath": "/Users/coditas/.nuget/packages/",
-      "outputPath": "/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/01-Language-Basics/04-loops/obj/",
+      "outputPath": "/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/01-Language-Basics/05-loops/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/coditas/.nuget/NuGet/NuGet.Config"
