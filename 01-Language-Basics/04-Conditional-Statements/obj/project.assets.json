@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/01-Language-Basics/03-Conditional-Statements/03-Conditional-Statements.csproj",
+      "projectUniqueName": "/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/01-Language-Basics/04-Conditional-Statements/03-Conditional-Statements.csproj",
       "projectName": "03-Conditional-Statements",
-      "projectPath": "/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/01-Language-Basics/03-Conditional-Statements/03-Conditional-Statements.csproj",
+      "projectPath": "/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/01-Language-Basics/04-Conditional-Statements/03-Conditional-Statements.csproj",
       "packagesPath": "/Users/coditas/.nuget/packages/",
-      "outputPath": "/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/01-Language-Basics/03-Conditional-Statements/obj/",
+      "outputPath": "/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/01-Language-Basics/04-Conditional-Statements/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/coditas/.nuget/NuGet/NuGet.Config"
