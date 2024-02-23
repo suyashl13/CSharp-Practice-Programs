@@ -1,0 +1,12 @@
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/04-Fields/01-Fields-Basics/ProductLibrary/bin/Debug/net8.0/ProductLibrary.deps.json
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/04-Fields/01-Fields-Basics/ProductLibrary/bin/Debug/net8.0/ProductLibrary.dll
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/04-Fields/01-Fields-Basics/ProductLibrary/bin/Debug/net8.0/ProductLibrary.pdb
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/04-Fields/01-Fields-Basics/ProductLibrary/obj/Debug/net8.0/ProductLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/04-Fields/01-Fields-Basics/ProductLibrary/obj/Debug/net8.0/ProductLibrary.AssemblyInfoInputs.cache
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/04-Fields/01-Fields-Basics/ProductLibrary/obj/Debug/net8.0/ProductLibrary.AssemblyInfo.cs
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/04-Fields/01-Fields-Basics/ProductLibrary/obj/Debug/net8.0/ProductLibrary.csproj.CoreCompileInputs.cache
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/04-Fields/01-Fields-Basics/ProductLibrary/obj/Debug/net8.0/ProductLibrary.sourcelink.json
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/04-Fields/01-Fields-Basics/ProductLibrary/obj/Debug/net8.0/ProductLibrary.dll
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/04-Fields/01-Fields-Basics/ProductLibrary/obj/Debug/net8.0/refint/ProductLibrary.dll
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/04-Fields/01-Fields-Basics/ProductLibrary/obj/Debug/net8.0/ProductLibrary.pdb
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/04-Fields/01-Fields-Basics/ProductLibrary/obj/Debug/net8.0/ref/ProductLibrary.dll
