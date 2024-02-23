@@ -1,0 +1,13 @@
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/04-Fields/01-Fields-Basics/obj/Debug/net8.0/01-Fields-Basics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/04-Fields/01-Fields-Basics/obj/Debug/net8.0/01-Fields-Basics.csproj.CoreCompileInputs.cache
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/04-Fields/01-Fields-Basics/obj/Debug/net8.0/01-Fields-Basics.sourcelink.json
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/04-Fields/01-Fields-Basics/bin/Debug/net8.0/01-Fields-Basics
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/04-Fields/01-Fields-Basics/bin/Debug/net8.0/01-Fields-Basics.deps.json
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/04-Fields/01-Fields-Basics/bin/Debug/net8.0/01-Fields-Basics.runtimeconfig.json
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/04-Fields/01-Fields-Basics/bin/Debug/net8.0/01-Fields-Basics.dll
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/04-Fields/01-Fields-Basics/bin/Debug/net8.0/01-Fields-Basics.pdb
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/04-Fields/01-Fields-Basics/obj/Debug/net8.0/01-Fields-Basics.dll
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/04-Fields/01-Fields-Basics/obj/Debug/net8.0/refint/01-Fields-Basics.dll
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/04-Fields/01-Fields-Basics/obj/Debug/net8.0/01-Fields-Basics.pdb
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/04-Fields/01-Fields-Basics/obj/Debug/net8.0/01-Fields-Basics.genruntimeconfig.cache
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/04-Fields/01-Fields-Basics/obj/Debug/net8.0/ref/01-Fields-Basics.dll
