@@ -1,0 +1,13 @@
+/Users/suyashlawand/Practice-Workspace/CSharp-Practice-Programs/07-Constructors/01-Constructors-CS/obj/Debug/net8.0/01-Constructors-CS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/suyashlawand/Practice-Workspace/CSharp-Practice-Programs/07-Constructors/01-Constructors-CS/obj/Debug/net8.0/01-Constructors-CS.csproj.CoreCompileInputs.cache
+/Users/suyashlawand/Practice-Workspace/CSharp-Practice-Programs/07-Constructors/01-Constructors-CS/obj/Debug/net8.0/01-Constructors-CS.sourcelink.json
+/Users/suyashlawand/Practice-Workspace/CSharp-Practice-Programs/07-Constructors/01-Constructors-CS/bin/Debug/net8.0/01-Constructors-CS
+/Users/suyashlawand/Practice-Workspace/CSharp-Practice-Programs/07-Constructors/01-Constructors-CS/bin/Debug/net8.0/01-Constructors-CS.deps.json
+/Users/suyashlawand/Practice-Workspace/CSharp-Practice-Programs/07-Constructors/01-Constructors-CS/bin/Debug/net8.0/01-Constructors-CS.runtimeconfig.json
+/Users/suyashlawand/Practice-Workspace/CSharp-Practice-Programs/07-Constructors/01-Constructors-CS/bin/Debug/net8.0/01-Constructors-CS.dll
+/Users/suyashlawand/Practice-Workspace/CSharp-Practice-Programs/07-Constructors/01-Constructors-CS/bin/Debug/net8.0/01-Constructors-CS.pdb
+/Users/suyashlawand/Practice-Workspace/CSharp-Practice-Programs/07-Constructors/01-Constructors-CS/obj/Debug/net8.0/01-Constructors-CS.dll
+/Users/suyashlawand/Practice-Workspace/CSharp-Practice-Programs/07-Constructors/01-Constructors-CS/obj/Debug/net8.0/refint/01-Constructors-CS.dll
+/Users/suyashlawand/Practice-Workspace/CSharp-Practice-Programs/07-Constructors/01-Constructors-CS/obj/Debug/net8.0/01-Constructors-CS.pdb
+/Users/suyashlawand/Practice-Workspace/CSharp-Practice-Programs/07-Constructors/01-Constructors-CS/obj/Debug/net8.0/01-Constructors-CS.genruntimeconfig.cache
+/Users/suyashlawand/Practice-Workspace/CSharp-Practice-Programs/07-Constructors/01-Constructors-CS/obj/Debug/net8.0/ref/01-Constructors-CS.dll

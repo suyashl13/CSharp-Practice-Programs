@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/suyashlawand/Practice-Workspace/CSharp-Practice-Programs/06-Type-Conversion/01-Type-Conversions/01-Type-Conversions.csproj": {}
+    "/Users/suyashlawand/Practice-Workspace/CSharp-Practice-Programs/07-Constructors/01-Constructors-CS/ClassLibrary/ClassLibrary.csproj": {}
   },
   "projects": {
-    "/Users/suyashlawand/Practice-Workspace/CSharp-Practice-Programs/06-Type-Conversion/01-Type-Conversions/01-Type-Conversions.csproj": {
+    "/Users/suyashlawand/Practice-Workspace/CSharp-Practice-Programs/07-Constructors/01-Constructors-CS/ClassLibrary/ClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/suyashlawand/Practice-Workspace/CSharp-Practice-Programs/06-Type-Conversion/01-Type-Conversions/01-Type-Conversions.csproj",
-        "projectName": "01-Type-Conversions",
-        "projectPath": "/Users/suyashlawand/Practice-Workspace/CSharp-Practice-Programs/06-Type-Conversion/01-Type-Conversions/01-Type-Conversions.csproj",
+        "projectUniqueName": "/Users/suyashlawand/Practice-Workspace/CSharp-Practice-Programs/07-Constructors/01-Constructors-CS/ClassLibrary/ClassLibrary.csproj",
+        "projectName": "ClassLibrary",
+        "projectPath": "/Users/suyashlawand/Practice-Workspace/CSharp-Practice-Programs/07-Constructors/01-Constructors-CS/ClassLibrary/ClassLibrary.csproj",
         "packagesPath": "/Users/suyashlawand/.nuget/packages/",
-        "outputPath": "/Users/suyashlawand/Practice-Workspace/CSharp-Practice-Programs/06-Type-Conversion/01-Type-Conversions/obj/",
+        "outputPath": "/Users/suyashlawand/Practice-Workspace/CSharp-Practice-Programs/07-Constructors/01-Constructors-CS/ClassLibrary/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/suyashlawand/.nuget/NuGet/NuGet.Config"
