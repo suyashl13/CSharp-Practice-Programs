@@ -1,0 +1,13 @@
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/10-Abstract-Classes-Interfaces/01-Abstract-Classes-Interfaces-CS/bin/Debug/net8.0/01-Abstract-Classes-Interfaces-CS
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/10-Abstract-Classes-Interfaces/01-Abstract-Classes-Interfaces-CS/bin/Debug/net8.0/01-Abstract-Classes-Interfaces-CS.deps.json
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/10-Abstract-Classes-Interfaces/01-Abstract-Classes-Interfaces-CS/bin/Debug/net8.0/01-Abstract-Classes-Interfaces-CS.runtimeconfig.json
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/10-Abstract-Classes-Interfaces/01-Abstract-Classes-Interfaces-CS/bin/Debug/net8.0/01-Abstract-Classes-Interfaces-CS.dll
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/10-Abstract-Classes-Interfaces/01-Abstract-Classes-Interfaces-CS/bin/Debug/net8.0/01-Abstract-Classes-Interfaces-CS.pdb
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/10-Abstract-Classes-Interfaces/01-Abstract-Classes-Interfaces-CS/obj/Debug/net8.0/01-Abstract-Classes-Interfaces-CS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/10-Abstract-Classes-Interfaces/01-Abstract-Classes-Interfaces-CS/obj/Debug/net8.0/01-Abstract-Classes-Interfaces-CS.csproj.CoreCompileInputs.cache
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/10-Abstract-Classes-Interfaces/01-Abstract-Classes-Interfaces-CS/obj/Debug/net8.0/01-Abstract-Classes-Interfaces-CS.sourcelink.json
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/10-Abstract-Classes-Interfaces/01-Abstract-Classes-Interfaces-CS/obj/Debug/net8.0/01-Abstract-Classes-Interfaces-CS.dll
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/10-Abstract-Classes-Interfaces/01-Abstract-Classes-Interfaces-CS/obj/Debug/net8.0/refint/01-Abstract-Classes-Interfaces-CS.dll
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/10-Abstract-Classes-Interfaces/01-Abstract-Classes-Interfaces-CS/obj/Debug/net8.0/01-Abstract-Classes-Interfaces-CS.pdb
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/10-Abstract-Classes-Interfaces/01-Abstract-Classes-Interfaces-CS/obj/Debug/net8.0/01-Abstract-Classes-Interfaces-CS.genruntimeconfig.cache
+/Users/coditas/Practice-Workspace/CSharp-Practice-Programs/10-Abstract-Classes-Interfaces/01-Abstract-Classes-Interfaces-CS/obj/Debug/net8.0/ref/01-Abstract-Classes-Interfaces-CS.dll

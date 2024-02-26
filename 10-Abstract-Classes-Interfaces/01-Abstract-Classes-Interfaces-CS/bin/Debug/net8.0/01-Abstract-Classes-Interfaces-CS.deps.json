@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "01-Abstract-Classes-Interfaces-CS/1.0.0": {
+        "runtime": {
+          "01-Abstract-Classes-Interfaces-CS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "01-Abstract-Classes-Interfaces-CS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
