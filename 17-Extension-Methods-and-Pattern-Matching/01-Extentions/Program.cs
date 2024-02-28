@@ -7,7 +7,6 @@ class Program
         Product product = new Product() {
             Cost = 120, Discount = 55
         };
-
         Console.WriteLine(product.GetDiscountPlusFive());
     }
 }
